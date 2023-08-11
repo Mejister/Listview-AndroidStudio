@@ -1,4 +1,4 @@
-# Listview-AndroidStudio
+# ListedView
 Kotlin ListView practice
 ![1. Sayfa)](https://user-images.githubusercontent.com/109960945/194652664-d716c4f1-d853-4ea1-8a33-a69d51dd618a.png)
 
